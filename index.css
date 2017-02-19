@@ -1,0 +1,65 @@
+body{
+    background-color: silver;
+    color: white;
+    padding: 10px;
+    font-family: arial,verdana,sans-serif;
+    }
+    h1{
+        background-color:white;
+background-color: hsla(0, 100%, 100%, 0.5);
+color: gray;
+padding: inherit;
+
+    }
+p{
+    padding: 5px;
+    margin: 0%;
+}
+    p.zero{
+    background-color: rgb(255,62, 130);
+}
+p.one{
+    background-color: rgb(245,82, 140);
+}
+p.two{
+    background-color: rgb(265,92, 150);
+}
+p.three{
+    background-color: rgb(275,102, 160);
+}
+p.four{
+
+background-color: rgb(285,112, 170);}
+p.five{
+            background-color: rgb(295,122, 180);
+}
+p.six{
+    background-color: rgb(305,142, 190);
+}
+p.seven{
+    background-color: rgb(0,210, 140);
+}
+p.eight{
+    background-color: rgb(140,200, 255);
+
+}
+
+p.nine{
+    background-color: rgb(115,190, 245);
+
+}
+p.ten{
+    background-color: rgb(90,180, 235);
+}
+p.eleven{
+    background-color: rgb(70,170, 230);
+}
+p.twelve{
+    background-color: rgb(60,160, 225);
+}
+p.thirteen{
+    background-color: rgb(50,150, 220);
+}
+p.fourteen{
+    background-color: rgb(40,140, 215);
+}
